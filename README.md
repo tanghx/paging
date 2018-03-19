@@ -7,10 +7,9 @@
 ```
 
 参数：
-|参数|说明|
-|--|--|
-|get-page-length|分页总页数|
-|get-current|当前页码|
+
+get-page-length：分页总页数
+get-current：当前页码
 
 方法：
 @sendPage
