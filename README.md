@@ -3,7 +3,7 @@
 
 调用方法
 ```html
-  <paging></paging>
+  <paging :get-page-length="" :get-current="" @sendPage=""></paging>
 ```
 
 参数：
