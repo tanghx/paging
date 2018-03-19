@@ -9,8 +9,9 @@
 参数：
 
 get-page-length：分页总页数
+
 get-current：当前页码
 
 方法：
-@sendPage
-当点击跳页时触发，获取当前页
+
+@sendPage：当点击跳页时触发，获取当前页
